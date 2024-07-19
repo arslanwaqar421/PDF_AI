@@ -1,3 +1,4 @@
-backend
-ai_doc_query/uploads
-ai_doc_query/doc_query/config.py
+backend/.venv
+backend/ai_doc_query/uploads
+backend/ai_doc_query/doc_query/config.py
+frontend/node_modules
