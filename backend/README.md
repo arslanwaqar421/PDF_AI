@@ -1,4 +1,4 @@
-# SMART DOC QUERY
+# PDF_AI
 
 An application that assists user upload multiple files and take assistance from chatbot to get answers of their questions regarding uploaded files.
 
